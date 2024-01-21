@@ -1,5 +1,5 @@
 site_title = "day-day-arxiv"
-limit_days = 7
+limit_days = 3
 cache_url = "https://yujunhuics.github.io/day-day-arxiv/cache.json"
 
 [[sources]]
